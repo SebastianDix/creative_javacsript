@@ -1,0 +1,15 @@
+{
+  "name": "creative_coding",
+  "version": "1.0.0",
+  "description": "A project where I follow the creative coding course on Domestika",
+  "main": "sketch-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "canvas-sketch": "^0.7.4"
+  }
+}

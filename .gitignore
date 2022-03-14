@@ -1,3 +1,7 @@
+# pyenv
+
+.python-version
+
 # Logs
 logs
 *.log
